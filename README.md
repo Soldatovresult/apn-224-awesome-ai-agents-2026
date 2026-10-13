@@ -21,14 +21,16 @@ Get help with code, research or everyday tasks. Choose an agent by what it can d
 
 Choose a task below. Each link leads to the official project or product, where you can check availability and setup.
 
-| What you want to do | Agents to explore | A useful first task |
-|---|---|---|
-| Write, fix or review code | [Codex](https://github.com/openai/codex), [Claude Code](https://github.com/anthropics/claude-code), [OpenCode](https://github.com/anomalyco/opencode) | Ask for one repository change, then review the diff and run the tests |
-| Research a question | [OpenAI Deep Research](https://openai.com/index/introducing-deep-research/), [Gemini Deep Research](https://gemini.google.com/) | Ask a specific question and check the cited sources |
-| Handle a repeat workflow | [Goose](https://github.com/aaif-goose/goose), [Hermes Agent](https://github.com/NousResearch/hermes-agent), [OpenClaw](https://github.com/openclaw/openclaw) | Try one routine task with only the tools it needs |
-| Turn an idea into an app | [Replit Agent](https://replit.com/ai), [Lovable](https://lovable.dev/), [v0](https://v0.dev/) | Describe one screen or feature and inspect the result before publishing |
+| What you want to do | Agents to explore |
+|---|---|
+| Write, fix or review code | [Codex](https://github.com/openai/codex), [Claude Code](https://github.com/anthropics/claude-code), [OpenCode](https://github.com/anomalyco/opencode) |
+| Research a question | [OpenAI Deep Research](https://openai.com/index/introducing-deep-research/), [Gemini Deep Research](https://gemini.google.com/) |
+| Handle a repeat workflow | [Goose](https://github.com/aaif-goose/goose), [Hermes Agent](https://github.com/NousResearch/hermes-agent), [OpenClaw](https://github.com/openclaw/openclaw) |
+| Turn an idea into an app | [Replit Agent](https://replit.com/ai), [Lovable](https://lovable.dev/), [v0](https://v0.dev/) |
 
-Start with one small task whose result you can check. Hosted agents may require an account or plan; local agents need installation and a model connection. Review tool access before connecting private files or services.
+For a first run, try one code change or a report on one question. If you are automating a workflow or building an app, start with one repeat task or one screen. Check the result before expanding the job.
+
+Hosted agents may require an account or plan; local agents need installation and a model connection. Review tool access before connecting private files or services.
 
 **[Browse coding agents](#coding-agents) · [Research and everyday agents](#research-and-everyday-agents) · [Compare harnesses](docs/HARNESS-RESEARCH.md)**
 
