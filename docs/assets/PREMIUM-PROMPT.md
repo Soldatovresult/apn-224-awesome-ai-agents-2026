@@ -54,4 +54,29 @@ Render the finished artwork.
 
 Request a fresh composition for each format rather than cutting off the character. Add titles as editable typography after generation. Avoid embedding technical labels in the artwork.
 
+## Current centered compositions
+
+The README uses [friendly-agent-centered.png](friendly-agent-centered.png), exported at 850 × 566 pixels with the companion centered and softly rounded corners. The original wide composition remains available as [friendly-agent-hero.png](friendly-agent-hero.png).
+
+The GitHub social image is [social-preview.jpg](social-preview.jpg), exported at 1280 × 640 pixels. Its title is part of the generated composition.
+
+```text
+Recompose the original friendly AI companion as a premium GitHub social
+preview, 2:1 landscape, target 1280 × 640. Preserve the porcelain-and-
+champagne character, turquoise smiling eyes, amber seed, welcoming hand,
+glass symbols, midnight teal landscape and warm light.
+
+Center the companion horizontally in the lower two thirds. At the top
+center, typeset exactly "Awesome AI Agents 2026" as one readable line in
+large off-white sans-serif letters. Keep the title against clear dark
+space; no objects or decorative arcs should cross the letters. Keep the
+title and character at least 64 pixels from the edges. No other text,
+logos, white margins or browser chrome. Export a fully opaque rectangle.
+
+For the README variant, use a centered 3:2 composition without text,
+matching the reference's close view of the complete upper body and hands.
+Preserve the same character and balanced glass symbols. Add gently rounded
+corners against white and export at 850 × 566.
+```
+
 **Suggested alt text:** A friendly porcelain AI companion holds a warm light beside floating glass symbols for tools, memory and verified work.

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/friendly-agent-hero.png" alt="A friendly porcelain AI companion holds a warm light beside glass symbols for tools, memory and verified work." width="100%">
+<img src="docs/assets/friendly-agent-centered.png" alt="A friendly porcelain AI companion, centered beside glass symbols for tools, memory and verified work." width="850">
 
 # Awesome AI Agents · 2026
 
