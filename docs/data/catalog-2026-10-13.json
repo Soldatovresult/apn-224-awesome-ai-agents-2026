@@ -1,0 +1,3742 @@
+{
+  "checkedOn": "2026-10-13",
+  "method": "GitHub GraphQL repository metadata; authenticated gh CLI; batches of 40",
+  "scope": "All repository URLs in current root Markdown guides and docs/HARNESS-RESEARCH.md; GitHub product pages excluded. Historical audit documents excluded. Repository metadata does not execute or endorse projects.",
+  "repositories": [
+    {
+      "requestedRepository": "aaif-goose/goose",
+      "metadata": {
+        "nameWithOwner": "aaif-goose/goose",
+        "url": "https://github.com/aaif-goose/goose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 55244,
+        "pushedAt": "2026-10-13T19:27:15Z",
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "4811ae25f736fdf0ede847449c060e96645426b5"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.54.0",
+          "publishedAt": "2026-10-08T18:44:54Z",
+          "url": "https://github.com/aaif-goose/goose/releases/tag/v1.54.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "ag-ui-protocol/ag-ui",
+      "metadata": {
+        "nameWithOwner": "ag-ui-protocol/ag-ui",
+        "url": "https://github.com/ag-ui-protocol/ag-ui",
+        "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 16503,
+        "pushedAt": "2026-10-13T20:15:52Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "72e8ad1802ce9a0525af1398d0de288d9b496317"
+          }
+        },
+        "latestRelease": {
+          "tagName": "release/2026-10-13",
+          "publishedAt": "2026-10-13T10:08:46Z",
+          "url": "https://github.com/ag-ui-protocol/ag-ui/releases/tag/release/2026-10-13"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "agentclientprotocol/agent-client-protocol",
+      "metadata": {
+        "nameWithOwner": "agentclientprotocol/agent-client-protocol",
+        "url": "https://github.com/agentclientprotocol/agent-client-protocol",
+        "description": " A protocol for connecting any editor to any agent",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 4429,
+        "pushedAt": "2026-10-13T19:21:21Z",
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "e5bcca615c2560a7d707365c773ae768ae595e88"
+          }
+        },
+        "latestRelease": {
+          "tagName": "schema-v1.25.0",
+          "publishedAt": "2026-10-09T14:17:40Z",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.25.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "AgenticFlowX/agenticflowx",
+      "metadata": {
+        "nameWithOwner": "AgenticFlowX/agenticflowx",
+        "url": "https://github.com/AgenticFlowX/agenticflowx",
+        "description": "AgenticFlowX is a VS Code workflow layer for AI coding. It gives you chat-first coding, Code / Explore / Spec modes, actionable markdown previews, an experimental project canvas, and repo-owned project memory for requirements, designs, tasks, journals, ADRs, notes, and traceability.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 19,
+        "pushedAt": "2026-09-07T20:57:38Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "765521670365412b40de637243f224fa552b45ae"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v2.5.2",
+          "publishedAt": "2026-07-27T13:33:22Z",
+          "url": "https://github.com/AgenticFlowX/agenticflowx/releases/tag/v2.5.2"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "agenticros/agenticros",
+      "metadata": {
+        "nameWithOwner": "agenticros/agenticros",
+        "url": "https://github.com/agenticros/agenticros",
+        "description": "ROS plugin for OpenClaw, Claude (Code,Desktop,Dispatch), Codex, Google Gemini, Hermes, MCP, etc.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 168,
+        "pushedAt": "2026-10-10T17:56:33Z",
+        "primaryLanguage": {
+          "name": "C"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "ead1971964163c48f4b9872f8fee7cdf865e2a44"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "agentsmd/agents.md",
+      "metadata": {
+        "nameWithOwner": "agentsmd/agents.md",
+        "url": "https://github.com/agentsmd/agents.md",
+        "description": "AGENTS.md — a simple, open format for guiding coding agents",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 24903,
+        "pushedAt": "2026-09-10T18:46:16Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "d001185d792eb6402a58e4cbef1c228b309ec25d"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "agno-agi/agno",
+      "metadata": {
+        "nameWithOwner": "agno-agi/agno",
+        "url": "https://github.com/agno-agi/agno",
+        "description": "Build, run, and manage agent platforms.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 42709,
+        "pushedAt": "2026-10-13T20:09:08Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "00497422d4a386d93ab3b45c1a11faf42fcc932f"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v3.1.3",
+          "publishedAt": "2026-10-12T11:22:21Z",
+          "url": "https://github.com/agno-agi/agno/releases/tag/v3.1.3"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "Aider-AI/aider",
+      "metadata": {
+        "nameWithOwner": "Aider-AI/aider",
+        "url": "https://github.com/Aider-AI/aider",
+        "description": "aider is AI pair programming in your terminal",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 49526,
+        "pushedAt": "2026-05-22T14:02:20Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "5dc9490bb35f9729ef2c95d00a19ccd30c26339c"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.86.0",
+          "publishedAt": "2025-08-09T17:42:19Z",
+          "url": "https://github.com/Aider-AI/aider/releases/tag/v0.86.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "AmirinNS/harness-bench",
+      "metadata": {
+        "nameWithOwner": "AmirinNS/harness-bench",
+        "url": "https://github.com/AmirinNS/harness-bench",
+        "description": "A benchmark that holds the model constant and varies the CLI harness. Runs Codex, Pi, OpenCode, and Kilo to measure how much the wrapper changes what you get. Deterministic checkers, blinded judging, token-derived costs, and hermetic config isolation keep the comparison honest. Flips the axis to benchmark models across Kimi, DeepSeek, MiniMax, etc.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 0,
+        "pushedAt": "2026-08-15T00:23:58Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "6ad402e6a3c3000a68c6d59f98924ed4c572742f"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "anomalyco/opencode",
+      "metadata": {
+        "nameWithOwner": "anomalyco/opencode",
+        "url": "https://github.com/anomalyco/opencode",
+        "description": "The open source coding agent.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 213214,
+        "pushedAt": "2026-10-13T20:19:03Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "dev",
+          "target": {
+            "oid": "1163e6cd91c06c3249a0ae9ef29cab98b18f8740"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.19.0",
+          "publishedAt": "2026-10-11T01:39:22Z",
+          "url": "https://github.com/anomalyco/opencode/releases/tag/v1.19.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "anthropics/claude-agent-sdk-python",
+      "metadata": {
+        "nameWithOwner": "anthropics/claude-agent-sdk-python",
+        "url": "https://github.com/anthropics/claude-agent-sdk-python",
+        "description": null,
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 8266,
+        "pushedAt": "2026-10-13T19:00:46Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "f33ec2b1e31abf9d6a285eb286e13336f283a00e"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.2.165",
+          "publishedAt": "2026-10-08T18:21:28Z",
+          "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.165"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "anthropics/claude-code",
+      "metadata": {
+        "nameWithOwner": "anthropics/claude-code",
+        "url": "https://github.com/anthropics/claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 150630,
+        "pushedAt": "2026-10-13T19:57:39Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": null,
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "b0b7bed9820350bb0942e32c7f00752a99ea3555"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v2.1.296",
+          "publishedAt": "2026-10-09T19:28:59Z",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.296"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "archestra-ai/archestra",
+      "metadata": {
+        "nameWithOwner": "archestra-ai/archestra",
+        "url": "https://github.com/archestra-ai/archestra",
+        "description": "Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 4370,
+        "pushedAt": "2026-10-13T20:18:23Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "c55b7b12969c7e2ae3aebf703ad589288e4aa145"
+          }
+        },
+        "latestRelease": {
+          "tagName": "platform-v1.3.71",
+          "publishedAt": "2026-10-08T21:11:09Z",
+          "url": "https://github.com/archestra-ai/archestra/releases/tag/platform-v1.3.71"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "Arize-ai/phoenix",
+      "metadata": {
+        "nameWithOwner": "Arize-ai/phoenix",
+        "url": "https://github.com/Arize-ai/phoenix",
+        "description": "AI Observability & Evaluation",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 11822,
+        "pushedAt": "2026-10-13T19:26:58Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "0fed1f431c65cf24f52ca8153d5ffd63ce04a1b2"
+          }
+        },
+        "latestRelease": {
+          "tagName": "arize-phoenix-v20.21.2",
+          "publishedAt": "2026-10-13T16:04:09Z",
+          "url": "https://github.com/Arize-ai/phoenix/releases/tag/arize-phoenix-v20.21.2"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "ARUNAGIRINATHAN-K/awesome-ai-agents-2026",
+      "metadata": {
+        "nameWithOwner": "ARUNAGIRINATHAN-K/awesome-ai-agents-2026",
+        "url": "https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026",
+        "description": "✨ Awesome AI Agents for 2026",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 342,
+        "pushedAt": "2026-10-10T10:36:18Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "f18942e837b1213c01a53ecd63e95add4c2d137f"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.2.0",
+          "publishedAt": "2026-09-15T03:47:41Z",
+          "url": "https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/releases/tag/v0.2.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "autonomous-ai/Physical-AI-Operating-System",
+      "metadata": {
+        "nameWithOwner": "autonomous-ai/Physical-AI-Operating-System",
+        "url": "https://github.com/autonomous-ai/Physical-AI-Operating-System",
+        "description": "The open-source operating system for physical AI.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 433,
+        "pushedAt": "2026-10-13T20:18:53Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "fee8f311093e129c9ac2b76240ee656b640b9e14"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.1.11",
+          "publishedAt": "2026-10-13T04:53:29Z",
+          "url": "https://github.com/autonomous-ai/Physical-AI-Operating-System/releases/tag/v0.1.11"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "aws/agent-toolkit-for-aws",
+      "metadata": {
+        "nameWithOwner": "aws/agent-toolkit-for-aws",
+        "url": "https://github.com/aws/agent-toolkit-for-aws",
+        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 2865,
+        "pushedAt": "2026-10-13T19:56:20Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "c34fbdfde6779593f651f2c85629a85d27231498"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "awslabs/mcp",
+      "metadata": {
+        "nameWithOwner": "awslabs/mcp",
+        "url": "https://github.com/awslabs/mcp",
+        "description": "Open source MCP Servers for AWS",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 9776,
+        "pushedAt": "2026-10-12T21:58:54Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "e1abc4b3b16a6da4c86ccbfc89de7bd864c5679e"
+          }
+        },
+        "latestRelease": {
+          "tagName": "2026.10.20261012173232",
+          "publishedAt": "2026-10-13T11:05:38Z",
+          "url": "https://github.com/awslabs/mcp/releases/tag/2026.10.20261012173232"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "BankrBot/skills",
+      "metadata": {
+        "nameWithOwner": "BankrBot/skills",
+        "url": "https://github.com/BankrBot/skills",
+        "description": "Bankr Skills equip builders with plug-and-play tools to build more powerful agents.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 1202,
+        "pushedAt": "2026-10-13T17:42:00Z",
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "licenseInfo": null,
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "399d0f586439abd7c76d2d31783af755b018e547"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "bentoml/BentoML",
+      "metadata": {
+        "nameWithOwner": "bentoml/BentoML",
+        "url": "https://github.com/bentoml/BentoML",
+        "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 8899,
+        "pushedAt": "2026-10-05T17:17:22Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "517b343b81aeb0b01bbd908e58e53ad9c12ef7eb"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.4.39",
+          "publishedAt": "2026-05-07T10:37:29Z",
+          "url": "https://github.com/bentoml/BentoML/releases/tag/v1.4.39"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "blaxel-ai/sandbox",
+      "metadata": {
+        "nameWithOwner": "blaxel-ai/sandbox",
+        "url": "https://github.com/blaxel-ai/sandbox",
+        "description": null,
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 28,
+        "pushedAt": "2026-10-12T20:13:08Z",
+        "primaryLanguage": {
+          "name": "Go"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "b24ad755c4ff8c5c86cfce928a312e17e7ed1881"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.2.69",
+          "publishedAt": "2026-10-10T18:43:44Z",
+          "url": "https://github.com/blaxel-ai/sandbox/releases/tag/v0.2.69"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "bradAGI/awesome-cli-coding-agents",
+      "metadata": {
+        "nameWithOwner": "bradAGI/awesome-cli-coding-agents",
+        "url": "https://github.com/bradAGI/awesome-cli-coding-agents",
+        "description": "Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. ",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 1348,
+        "pushedAt": "2026-10-12T17:10:15Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": null,
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "0fbf2821f03f59b8d21da6e54af672192287d639"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "builderz-labs/mission-control",
+      "metadata": {
+        "nameWithOwner": "builderz-labs/mission-control",
+        "url": "https://github.com/builderz-labs/mission-control",
+        "description": "Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 6341,
+        "pushedAt": "2026-10-12T01:31:17Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "e28edf8b28c85a32f1fd55ac577d325df6b16e4a"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v2.3.0",
+          "publishedAt": "2026-07-25T08:10:11Z",
+          "url": "https://github.com/builderz-labs/mission-control/releases/tag/v2.3.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "caramaschiHG/awesome-ai-agents-2026",
+      "metadata": {
+        "nameWithOwner": "caramaschiHG/awesome-ai-agents-2026",
+        "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+        "description": "🤖 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthly.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 1940,
+        "pushedAt": "2026-06-10T16:46:10Z",
+        "primaryLanguage": null,
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "781b695139b8dfa231c0db5fd9cba02ccd518e84"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "chorus-codes/chorus",
+      "metadata": {
+        "nameWithOwner": "chorus-codes/chorus",
+        "url": "https://github.com/chorus-codes/chorus",
+        "description": "Multi-LLM peer review for code decisions. Bring your own CLI; Chorus convenes 2-4 other LLMs to review the work before you ship.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 534,
+        "pushedAt": "2026-08-13T00:11:48Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "5e0eabbf60b0a45c6b00432f696d38d18dc68f88"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "chrisbanes/skills",
+      "metadata": {
+        "nameWithOwner": "chrisbanes/skills",
+        "url": "https://github.com/chrisbanes/skills",
+        "description": "Skills for Kotlin, Jetpack Compose, and Android development",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 1096,
+        "pushedAt": "2026-10-13T15:04:35Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "3b9aa8b00d1cf4bacc2c25a1858405f9e5ed02e6"
+          }
+        },
+        "latestRelease": {
+          "tagName": "2026.10.13",
+          "publishedAt": "2026-10-13T07:36:23Z",
+          "url": "https://github.com/chrisbanes/skills/releases/tag/2026.10.13"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "cline/cline",
+      "metadata": {
+        "nameWithOwner": "cline/cline",
+        "url": "https://github.com/cline/cline",
+        "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 70276,
+        "pushedAt": "2026-10-13T20:12:22Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "26cea2fa8bc481e942cac2f7cfb412c7c9d139f2"
+          }
+        },
+        "latestRelease": {
+          "tagName": "desktop-v0.0.46",
+          "publishedAt": "2026-10-13T15:03:59Z",
+          "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.46"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "colbymchenry/codegraph",
+      "metadata": {
+        "nameWithOwner": "colbymchenry/codegraph",
+        "url": "https://github.com/colbymchenry/codegraph",
+        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 73952,
+        "pushedAt": "2026-10-13T17:47:04Z",
+        "primaryLanguage": {
+          "name": "C"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "34dd3d2fb4e15199d313f36450b095acf32dcb14"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.6.2",
+          "publishedAt": "2026-10-03T06:41:20Z",
+          "url": "https://github.com/colbymchenry/codegraph/releases/tag/v1.6.2"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "CopilotKit/CopilotKit",
+      "metadata": {
+        "nameWithOwner": "CopilotKit/CopilotKit",
+        "url": "https://github.com/CopilotKit/CopilotKit",
+        "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 37999,
+        "pushedAt": "2026-10-13T19:52:01Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "92d499f17f2bf5ec8627f677eea81c806219d86e"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.79.0",
+          "publishedAt": "2026-10-12T17:28:40Z",
+          "url": "https://github.com/CopilotKit/CopilotKit/releases/tag/v1.79.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "crewAIInc/crewAI",
+      "metadata": {
+        "nameWithOwner": "crewAIInc/crewAI",
+        "url": "https://github.com/crewAIInc/crewAI",
+        "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 59656,
+        "pushedAt": "2026-10-13T19:20:45Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "ddfa8517b8f7b9505319b9122d847cd0ec15edfc"
+          }
+        },
+        "latestRelease": {
+          "tagName": "1.15.27",
+          "publishedAt": "2026-10-09T22:33:44Z",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.27"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "d1-m4ss/harness-benchmark",
+      "metadata": {
+        "nameWithOwner": "d1-m4ss/harness-benchmark",
+        "url": "https://github.com/d1-m4ss/harness-benchmark",
+        "description": "Benchmarking AI coding agent harnesses (Codex, Pi, Claude Code, OpenCode) while holding the model constant.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 2,
+        "pushedAt": "2026-09-01T11:00:40Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "5f4a6e3c3a5e2b658e3e750d043ed424a3a8ff17"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "data-privacy-stack/presidio",
+      "metadata": {
+        "nameWithOwner": "data-privacy-stack/presidio",
+        "url": "https://github.com/data-privacy-stack/presidio",
+        "description": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 11312,
+        "pushedAt": "2026-10-09T05:18:46Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "2523c7b74a469270c5c78bb253f140eafca21e31"
+          }
+        },
+        "latestRelease": {
+          "tagName": "2.2.364",
+          "publishedAt": "2026-07-22T08:30:12Z",
+          "url": "https://github.com/data-privacy-stack/presidio/releases/tag/2.2.364"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "davidondrej/skills",
+      "metadata": {
+        "nameWithOwner": "davidondrej/skills",
+        "url": "https://github.com/davidondrej/skills",
+        "description": "access to david ondrej's personal agent skills",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 4127,
+        "pushedAt": "2026-10-13T17:08:15Z",
+        "primaryLanguage": {
+          "name": "Shell"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "66fea96bbbabb0b2be35f9a01c2ca4d75ddfbcc8"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "davila7/claude-code-templates",
+      "metadata": {
+        "nameWithOwner": "davila7/claude-code-templates",
+        "url": "https://github.com/davila7/claude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 32617,
+        "pushedAt": "2026-10-13T13:38:57Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "5d3ef64aca75f62027b4eb14bd20a65b86bcc99b"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.29.7",
+          "publishedAt": "2026-10-09T15:31:15Z",
+          "url": "https://github.com/davila7/claude-code-templates/releases/tag/v1.29.7"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "Deep-Insight-Labs/awesome-ai-agents",
+      "metadata": {
+        "nameWithOwner": "Deep-Insight-Labs/awesome-ai-agents",
+        "url": "https://github.com/Deep-Insight-Labs/awesome-ai-agents",
+        "description": "A directory of practical and usable AI agents resources from applications and platforms to frameworks and utilities and other parts of the growing ecosystem",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 38,
+        "pushedAt": "2026-04-28T13:21:05Z",
+        "primaryLanguage": null,
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "a4b4fa0729a7e53829645164cc51798bc782c7c1"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "deepset-ai/haystack",
+      "metadata": {
+        "nameWithOwner": "deepset-ai/haystack",
+        "url": "https://github.com/deepset-ai/haystack",
+        "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 26737,
+        "pushedAt": "2026-10-13T19:54:01Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "f2f37bdc397e5a6db7b7e0e5e2dd5f0bcb3559a0"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v3.3.0",
+          "publishedAt": "2026-10-01T10:39:53Z",
+          "url": "https://github.com/deepset-ai/haystack/releases/tag/v3.3.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "docker/docker-agent",
+      "metadata": {
+        "nameWithOwner": "docker/docker-agent",
+        "url": "https://github.com/docker/docker-agent",
+        "description": "AI Agent Builder and Runtime by Docker Engineering",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 4476,
+        "pushedAt": "2026-10-13T18:45:21Z",
+        "primaryLanguage": {
+          "name": "Go"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "bfda0c374ec0ef71eb8813021731ec68027b62ca"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.150.0",
+          "publishedAt": "2026-10-09T11:39:26Z",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.150.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "dotnet/skills",
+      "metadata": {
+        "nameWithOwner": "dotnet/skills",
+        "url": "https://github.com/dotnet/skills",
+        "description": "Repository for skills to assist AI coding agents with .NET and C#",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 5620,
+        "pushedAt": "2026-10-13T20:17:00Z",
+        "primaryLanguage": {
+          "name": "C#"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "9de888b8ce55da34e76a113bd7b2d463d6b3e1e6"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.0.0",
+          "publishedAt": "2026-04-21T09:21:15Z",
+          "url": "https://github.com/dotnet/skills/releases/tag/v1.0.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "dzhng/skills",
+      "metadata": {
+        "nameWithOwner": "dzhng/skills",
+        "url": "https://github.com/dzhng/skills",
+        "description": "Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 1317,
+        "pushedAt": "2026-10-12T08:31:58Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "ad5f2270a68dd6936e70f9c6386bc13e8457bda7"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "e2b-dev/awesome-ai-agents",
+      "metadata": {
+        "nameWithOwner": "e2b-dev/awesome-ai-agents",
+        "url": "https://github.com/e2b-dev/awesome-ai-agents",
+        "description": "A list of AI autonomous agents",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 30426,
+        "pushedAt": "2026-08-21T18:52:45Z",
+        "primaryLanguage": null,
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "9596ab1e69fbbb6c95291141c8dab5c181083216"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.6",
+          "publishedAt": "2023-07-20T05:57:49Z",
+          "url": "https://github.com/e2b-dev/awesome-ai-agents/releases/tag/v1.6"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "e2b-dev/awesome-ai-sdks",
+      "metadata": {
+        "nameWithOwner": "e2b-dev/awesome-ai-sdks",
+        "url": "https://github.com/e2b-dev/awesome-ai-sdks",
+        "description": "A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 1232,
+        "pushedAt": "2026-07-09T17:29:58Z",
+        "primaryLanguage": null,
+        "licenseInfo": null,
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "7c55394afb3e27d755c89bb29f1c35a55888fcd4"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "e2b-dev/E2B",
+      "metadata": {
+        "nameWithOwner": "e2b-dev/E2B",
+        "url": "https://github.com/e2b-dev/E2B",
+        "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 14318,
+        "pushedAt": "2026-10-13T15:02:51Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "62a17dfc3f11439d1d06bfb9bb515eadc5adfcd3"
+          }
+        },
+        "latestRelease": {
+          "tagName": "@e2b/code-interpreter-python@2.11.0",
+          "publishedAt": "2026-10-13T15:02:49Z",
+          "url": "https://github.com/e2b-dev/E2B/releases/tag/%40e2b/code-interpreter-python%402.11.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "earendil-works/pi",
+      "metadata": {
+        "nameWithOwner": "earendil-works/pi",
+        "url": "https://github.com/earendil-works/pi",
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 114883,
+        "pushedAt": "2026-10-13T16:17:56Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "3daa20280f6a7c7cbe0935680c9a38fdc3863005"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.2.0",
+          "publishedAt": "2026-10-12T23:03:53Z",
+          "url": "https://github.com/earendil-works/pi/releases/tag/v1.2.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "Egonex-AI/Understand-Anything",
+      "metadata": {
+        "nameWithOwner": "Egonex-AI/Understand-Anything",
+        "url": "https://github.com/Egonex-AI/Understand-Anything",
+        "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 86161,
+        "pushedAt": "2026-10-12T10:24:59Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "f2d0164f72fe678805c34245a6df36acededfebd"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v2.9.0",
+          "publishedAt": "2026-07-10T09:36:42Z",
+          "url": "https://github.com/Egonex-AI/Understand-Anything/releases/tag/v2.9.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "ggml-org/llama.cpp",
+      "metadata": {
+        "nameWithOwner": "ggml-org/llama.cpp",
+        "url": "https://github.com/ggml-org/llama.cpp",
+        "description": "LLM inference in C/C++",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 131068,
+        "pushedAt": "2026-10-13T20:15:43Z",
+        "primaryLanguage": {
+          "name": "C++"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "master",
+          "target": {
+            "oid": "1b70350c92563449576bcbbf552994b1d1ed847d"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.6.0",
+          "publishedAt": "2026-10-05T16:56:22Z",
+          "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "google-gemini/gemini-cli",
+      "metadata": {
+        "nameWithOwner": "google-gemini/gemini-cli",
+        "url": "https://github.com/google-gemini/gemini-cli",
+        "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 107325,
+        "pushedAt": "2026-10-13T20:17:05Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "29315e53d0c2e9b78f301f3c24db235b0f3fa597"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.63.0",
+          "publishedAt": "2026-10-06T20:38:49Z",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.63.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "google/adk-python",
+      "metadata": {
+        "nameWithOwner": "google/adk-python",
+        "url": "https://github.com/google/adk-python",
+        "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 21806,
+        "pushedAt": "2026-10-13T20:13:47Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "1b84f70ab3058f9434951cadb3e05ba1dbd7e788"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v2.12.0",
+          "publishedAt": "2026-10-13T16:35:19Z",
+          "url": "https://github.com/google/adk-python/releases/tag/v2.12.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "guardrails-ai/guardrails",
+      "metadata": {
+        "nameWithOwner": "guardrails-ai/guardrails",
+        "url": "https://github.com/guardrails-ai/guardrails",
+        "description": "Adding guardrails to large language models.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 7515,
+        "pushedAt": "2026-10-09T01:35:31Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "06d0ff2c5f9bcb493d976b76f885e37e41ce845d"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.11.0",
+          "publishedAt": "2026-08-14T14:22:32Z",
+          "url": "https://github.com/guardrails-ai/guardrails/releases/tag/v0.11.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "harbor-framework/harbor",
+      "metadata": {
+        "nameWithOwner": "harbor-framework/harbor",
+        "url": "https://github.com/harbor-framework/harbor",
+        "description": "Framework for evaluating and improving agents ",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 6076,
+        "pushedAt": "2026-10-13T20:17:27Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "4778ceba98314a3b0fe119249f7ac84fc0af08b7"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.24.0",
+          "publishedAt": "2026-10-05T05:04:52Z",
+          "url": "https://github.com/harbor-framework/harbor/releases/tag/v0.24.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "harbor-framework/terminal-bench",
+      "metadata": {
+        "nameWithOwner": "harbor-framework/terminal-bench",
+        "url": "https://github.com/harbor-framework/terminal-bench",
+        "description": "Measuring and evolving with the frontier of agent work",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 886,
+        "pushedAt": "2026-10-12T20:06:33Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "1d49c52e6c9398b90aba0668bab09f3821d52856"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v4.0.0",
+          "publishedAt": "2026-08-26T04:48:12Z",
+          "url": "https://github.com/harbor-framework/terminal-bench/releases/tag/v4.0.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "herdrdev/herdr",
+      "metadata": {
+        "nameWithOwner": "herdrdev/herdr",
+        "url": "https://github.com/herdrdev/herdr",
+        "description": "the runtime your coding agents live on",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 43790,
+        "pushedAt": "2026-10-13T20:10:48Z",
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "master",
+          "target": {
+            "oid": "87e5c13c6028df72405f63388dde585212ad3019"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.9.4",
+          "publishedAt": "2026-10-13T15:41:22Z",
+          "url": "https://github.com/herdrdev/herdr/releases/tag/v0.9.4"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "hesreallyhim/awesome-claude-code",
+      "metadata": {
+        "nameWithOwner": "hesreallyhim/awesome-claude-code",
+        "url": "https://github.com/hesreallyhim/awesome-claude-code",
+        "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 55597,
+        "pushedAt": "2026-10-13T18:14:45Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "fd316b649933f6bd457ac934467247269d72546b"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "HKUDS/nanobot",
+      "metadata": {
+        "nameWithOwner": "HKUDS/nanobot",
+        "url": "https://github.com/HKUDS/nanobot",
+        "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 48995,
+        "pushedAt": "2026-10-13T17:25:58Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "30e43aec822bdd1d6d770db43a3b27a08667ed53"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.3.5",
+          "publishedAt": "2026-09-15T19:05:37Z",
+          "url": "https://github.com/HKUDS/nanobot/releases/tag/v0.3.5"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "holaboss-ai/holaOS",
+      "metadata": {
+        "nameWithOwner": "holaboss-ai/holaOS",
+        "url": "https://github.com/holaboss-ai/holaOS",
+        "description": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leaves your machines.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 11444,
+        "pushedAt": "2026-08-21T13:11:13Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "4684714ee133794cdbb86630e42b7d93447fb2e2"
+          }
+        },
+        "latestRelease": {
+          "tagName": "latest",
+          "publishedAt": "2026-08-06T16:22:28Z",
+          "url": "https://github.com/holaboss-ai/holaOS/releases/tag/latest"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "huggingface/smolagents",
+      "metadata": {
+        "nameWithOwner": "huggingface/smolagents",
+        "url": "https://github.com/huggingface/smolagents",
+        "description": "🤗 smolagents: a barebones library for agents that think in code.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 29821,
+        "pushedAt": "2026-10-06T18:35:07Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "96f33faaf028479119ec8d34507b47694cf14e34"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.26.0",
+          "publishedAt": "2026-05-29T05:09:47Z",
+          "url": "https://github.com/huggingface/smolagents/releases/tag/v1.26.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "jakubkrehel/skills",
+      "metadata": {
+        "nameWithOwner": "jakubkrehel/skills",
+        "url": "https://github.com/jakubkrehel/skills",
+        "description": "A collection of agent skills that help you build great interfaces.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 7895,
+        "pushedAt": "2026-10-13T02:06:04Z",
+        "primaryLanguage": {
+          "name": "Markdown"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "4c66b1fa86e9ab70187b43d7da9b6fdb29f2ef63"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "janhq/jan",
+      "metadata": {
+        "nameWithOwner": "janhq/jan",
+        "url": "https://github.com/janhq/jan",
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 44932,
+        "pushedAt": "2026-10-13T14:29:49Z",
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "3d9529df281e4d5d2784cdbae75979bf05929013"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.8.6",
+          "publishedAt": "2026-10-09T09:03:08Z",
+          "url": "https://github.com/janhq/jan/releases/tag/v0.8.6"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "KunAgent/Kun",
+      "metadata": {
+        "nameWithOwner": "KunAgent/Kun",
+        "url": "https://github.com/KunAgent/Kun",
+        "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 6317,
+        "pushedAt": "2026-10-11T19:33:29Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "master",
+          "target": {
+            "oid": "8e167608c63d2ec67ea01f90962c906b878c3611"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.4.0",
+          "publishedAt": "2026-10-11T19:45:26Z",
+          "url": "https://github.com/KunAgent/Kun/releases/tag/v0.4.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "langchain-ai/deepagents",
+      "metadata": {
+        "nameWithOwner": "langchain-ai/deepagents",
+        "url": "https://github.com/langchain-ai/deepagents",
+        "description": "The batteries-included agent harness.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 30220,
+        "pushedAt": "2026-10-13T20:03:35Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "6130c0d60d5d4f29dd49318284dbc68e2777cd38"
+          }
+        },
+        "latestRelease": {
+          "tagName": "deepagents==0.7.24",
+          "publishedAt": "2026-10-12T04:46:40Z",
+          "url": "https://github.com/langchain-ai/deepagents/releases/tag/deepagents%3D%3D0.7.24"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "langchain-ai/langgraph",
+      "metadata": {
+        "nameWithOwner": "langchain-ai/langgraph",
+        "url": "https://github.com/langchain-ai/langgraph",
+        "description": "Build resilient agents.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 43209,
+        "pushedAt": "2026-10-13T18:27:57Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "8a77332d0db75c49d296b1f3833a3a5ccd5f0dc8"
+          }
+        },
+        "latestRelease": {
+          "tagName": "1.2.15",
+          "publishedAt": "2026-10-12T22:38:26Z",
+          "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.15"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "langfuse/langfuse",
+      "metadata": {
+        "nameWithOwner": "langfuse/langfuse",
+        "url": "https://github.com/langfuse/langfuse",
+        "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 35777,
+        "pushedAt": "2026-10-13T20:18:54Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "5a92762c326a1831383aa5a050e9a71b58636275"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v4.58.0",
+          "publishedAt": "2026-10-13T07:05:09Z",
+          "url": "https://github.com/langfuse/langfuse/releases/tag/v4.58.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "lastmile-ai/mcp-agent",
+      "metadata": {
+        "nameWithOwner": "lastmile-ai/mcp-agent",
+        "url": "https://github.com/lastmile-ai/mcp-agent",
+        "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 8574,
+        "pushedAt": "2026-01-25T16:35:16Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "f62d849350816588b1c6294e7914bbe4d8b84072"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.0.21",
+          "publishedAt": "2025-05-09T16:54:50Z",
+          "url": "https://github.com/lastmile-ai/mcp-agent/releases/tag/v0.0.21"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "letta-ai/letta",
+      "metadata": {
+        "nameWithOwner": "letta-ai/letta",
+        "url": "https://github.com/letta-ai/letta",
+        "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 25122,
+        "pushedAt": "2026-09-10T17:59:08Z",
+        "primaryLanguage": null,
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "5bcdd177d70fa2b31a754cfcd801e77b2e1ab16a"
+          }
+        },
+        "latestRelease": {
+          "tagName": "0.16.8",
+          "publishedAt": "2026-05-14T17:14:24Z",
+          "url": "https://github.com/letta-ai/letta/releases/tag/0.16.8"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "livekit/agents",
+      "metadata": {
+        "nameWithOwner": "livekit/agents",
+        "url": "https://github.com/livekit/agents",
+        "description": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 14728,
+        "pushedAt": "2026-10-13T19:19:48Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "d0c301c55bbbdad52a6d793d5949636b20073fb3"
+          }
+        },
+        "latestRelease": {
+          "tagName": "livekit-agents@1.8.6",
+          "publishedAt": "2026-10-09T22:17:26Z",
+          "url": "https://github.com/livekit/agents/releases/tag/livekit-agents%401.8.6"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "llm-d/llm-d",
+      "metadata": {
+        "nameWithOwner": "llm-d/llm-d",
+        "url": "https://github.com/llm-d/llm-d",
+        "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 4820,
+        "pushedAt": "2026-10-13T20:08:19Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "5f0863b0468fed8c89a39781d90e76777e040ddf"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.10.0",
+          "publishedAt": "2026-09-29T00:00:25Z",
+          "url": "https://github.com/llm-d/llm-d/releases/tag/v0.10.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "mastra-ai/mastra",
+      "metadata": {
+        "nameWithOwner": "mastra-ai/mastra",
+        "url": "https://github.com/mastra-ai/mastra",
+        "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 28791,
+        "pushedAt": "2026-10-13T20:15:26Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "b9197fdea41a28981ca1a9fc77947ca1bf7d1f90"
+          }
+        },
+        "latestRelease": {
+          "tagName": "@mastra/core@1.76.0",
+          "publishedAt": "2026-10-13T09:36:23Z",
+          "url": "https://github.com/mastra-ai/mastra/releases/tag/%40mastra/core%401.76.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "mcp-security-project/awesome-agentic-mcp-security",
+      "metadata": {
+        "nameWithOwner": "mcp-security-project/awesome-agentic-mcp-security",
+        "url": "https://github.com/mcp-security-project/awesome-agentic-mcp-security",
+        "description": "Awesome Agentic MCP Security List",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 23,
+        "pushedAt": "2026-09-26T20:49:16Z",
+        "primaryLanguage": null,
+        "licenseInfo": {
+          "spdxId": "CC0-1.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "e56660aca5cdf8e9ac48aa59662c5141c04cf56f"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "mem0ai/mem0",
+      "metadata": {
+        "nameWithOwner": "mem0ai/mem0",
+        "url": "https://github.com/mem0ai/mem0",
+        "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 67128,
+        "pushedAt": "2026-10-12T16:28:49Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "d26ba5e4518cef7fff3c66d4f715b21adf9feabe"
+          }
+        },
+        "latestRelease": {
+          "tagName": "ts-v3.3.1",
+          "publishedAt": "2026-09-25T17:36:35Z",
+          "url": "https://github.com/mem0ai/mem0/releases/tag/ts-v3.3.1"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "microsoft/agent-framework",
+      "metadata": {
+        "nameWithOwner": "microsoft/agent-framework",
+        "url": "https://github.com/microsoft/agent-framework",
+        "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 14115,
+        "pushedAt": "2026-10-13T19:34:59Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "1b9879c58ac950ef235471209b4c5cb402972bab"
+          }
+        },
+        "latestRelease": {
+          "tagName": "python-1.21.0",
+          "publishedAt": "2026-10-08T10:27:26Z",
+          "url": "https://github.com/microsoft/agent-framework/releases/tag/python-1.21.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "minghinmatthewlam/openbench",
+      "metadata": {
+        "nameWithOwner": "minghinmatthewlam/openbench",
+        "url": "https://github.com/minghinmatthewlam/openbench",
+        "description": "Same model, different wrapper: a from-scratch benchmark comparing coding-agent harnesses (codex, pi, opencode, cursor, devin) and open models on correctness, speed, and token cost",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 137,
+        "pushedAt": "2026-08-27T11:55:16Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "db193457a3d9128cd4d01fd839c2a890c186c9ac"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.0.0",
+          "publishedAt": "2026-07-21T16:14:15Z",
+          "url": "https://github.com/minghinmatthewlam/openbench/releases/tag/v1.0.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "ml-explore/mlx-lm",
+      "metadata": {
+        "nameWithOwner": "ml-explore/mlx-lm",
+        "url": "https://github.com/ml-explore/mlx-lm",
+        "description": "Run LLMs with MLX",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 7287,
+        "pushedAt": "2026-10-10T21:57:23Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "ba8a08fd2ed72bbc53de84f89933f91fe4743e4a"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.31.3",
+          "publishedAt": "2026-04-22T07:43:57Z",
+          "url": "https://github.com/ml-explore/mlx-lm/releases/tag/v0.31.3"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "modelcontextprotocol/servers",
+      "metadata": {
+        "nameWithOwner": "modelcontextprotocol/servers",
+        "url": "https://github.com/modelcontextprotocol/servers",
+        "description": "Model Context Protocol Servers",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 91219,
+        "pushedAt": "2026-10-13T05:54:47Z",
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "bbb701e7ac1e57f3edd1c2836b94c5457eaf7b9c"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.0.0",
+          "publishedAt": "2026-10-11T02:40:29Z",
+          "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v1.0.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "mokevnin/agentic-coding-design-patterns",
+      "metadata": {
+        "nameWithOwner": "mokevnin/agentic-coding-design-patterns",
+        "url": "https://github.com/mokevnin/agentic-coding-design-patterns",
+        "description": "AI SDLC PATTERNS",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 244,
+        "pushedAt": "2026-10-03T13:03:07Z",
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "0f414a74fd63e56ce5157169aa568ffbd2807442"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "mudler/LocalAI",
+      "metadata": {
+        "nameWithOwner": "mudler/LocalAI",
+        "url": "https://github.com/mudler/LocalAI",
+        "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 49513,
+        "pushedAt": "2026-10-13T20:16:30Z",
+        "primaryLanguage": {
+          "name": "Go"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "master",
+          "target": {
+            "oid": "c677c3bbc2d016a124f2b0cb84713cd748a84682"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v4.11.0",
+          "publishedAt": "2026-10-02T21:56:09Z",
+          "url": "https://github.com/mudler/LocalAI/releases/tag/v4.11.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "musistudio/claude-code-router",
+      "metadata": {
+        "nameWithOwner": "musistudio/claude-code-router",
+        "url": "https://github.com/musistudio/claude-code-router",
+        "description": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 37653,
+        "pushedAt": "2026-10-10T03:35:10Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "057abaa1f95519ab8faf999e1ccef2b80ccdeb9e"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v3.1.3",
+          "publishedAt": "2026-10-09T11:45:36Z",
+          "url": "https://github.com/musistudio/claude-code-router/releases/tag/v3.1.3"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "nanocoai/nanoclaw",
+      "metadata": {
+        "nameWithOwner": "nanocoai/nanoclaw",
+        "url": "https://github.com/nanocoai/nanoclaw",
+        "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 30937,
+        "pushedAt": "2026-10-13T15:17:20Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "15c6124f625ed007ead6ed8dd03958d07ebd57af"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v2026.10.0",
+          "publishedAt": "2026-10-09T11:26:13Z",
+          "url": "https://github.com/nanocoai/nanoclaw/releases/tag/v2026.10.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "nearai/ironclaw",
+      "metadata": {
+        "nameWithOwner": "nearai/ironclaw",
+        "url": "https://github.com/nearai/ironclaw",
+        "description": "IronClaw is an Agent OS focused on privacy, security and extensibility",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 12652,
+        "pushedAt": "2026-10-13T09:46:41Z",
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "b0b999d96781516ee05e6ba961d6f3ead900da96"
+          }
+        },
+        "latestRelease": {
+          "tagName": "ironclaw-v1.4.1",
+          "publishedAt": "2026-09-29T20:40:32Z",
+          "url": "https://github.com/nearai/ironclaw/releases/tag/ironclaw-v1.4.1"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "nomic-ai/gpt4all",
+      "metadata": {
+        "nameWithOwner": "nomic-ai/gpt4all",
+        "url": "https://github.com/nomic-ai/gpt4all",
+        "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 77368,
+        "pushedAt": "2025-05-27T20:05:19Z",
+        "primaryLanguage": {
+          "name": "C++"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "b666d16db5aeab8b91aaf7963adcee9c643734d7"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v3.10.0",
+          "publishedAt": "2025-02-25T00:41:39Z",
+          "url": "https://github.com/nomic-ai/gpt4all/releases/tag/v3.10.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "NousResearch/hermes-agent",
+      "metadata": {
+        "nameWithOwner": "NousResearch/hermes-agent",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "description": "The agent that grows with you",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 253443,
+        "pushedAt": "2026-10-13T20:14:24Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "4957bbd0a0f6a1c3fe8217dc4a66d072971f5b63"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.21.7",
+          "publishedAt": "2026-10-12T05:53:41Z",
+          "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.21.7"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "nullclaw/nullclaw",
+      "metadata": {
+        "nameWithOwner": "nullclaw/nullclaw",
+        "url": "https://github.com/nullclaw/nullclaw",
+        "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 8126,
+        "pushedAt": "2026-10-08T10:01:11Z",
+        "primaryLanguage": {
+          "name": "Zig"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "5f1cade05c19b6ecdfb9565ae3305e892e484da9"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v2026.5.29",
+          "publishedAt": "2026-05-29T13:41:10Z",
+          "url": "https://github.com/nullclaw/nullclaw/releases/tag/v2026.5.29"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "NVIDIA-NeMo/Guardrails",
+      "metadata": {
+        "nameWithOwner": "NVIDIA-NeMo/Guardrails",
+        "url": "https://github.com/NVIDIA-NeMo/Guardrails",
+        "description": "NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 7289,
+        "pushedAt": "2026-10-13T16:33:05Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "develop",
+          "target": {
+            "oid": "21ec4f4d3390c35b1508267a822f79db00e943c9"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.24.1",
+          "publishedAt": "2026-09-16T17:15:59Z",
+          "url": "https://github.com/NVIDIA-NeMo/Guardrails/releases/tag/v0.24.1"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "NVIDIA/garak",
+      "metadata": {
+        "nameWithOwner": "NVIDIA/garak",
+        "url": "https://github.com/NVIDIA/garak",
+        "description": "the LLM vulnerability scanner",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 9558,
+        "pushedAt": "2026-10-10T14:37:58Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "cd87893be81bed4ced9afd86b88577289f4644bf"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.17.0",
+          "publishedAt": "2026-09-09T18:56:03Z",
+          "url": "https://github.com/NVIDIA/garak/releases/tag/v0.17.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "NVIDIA/OpenShell",
+      "metadata": {
+        "nameWithOwner": "NVIDIA/OpenShell",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 16084,
+        "pushedAt": "2026-10-13T20:18:19Z",
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "2f6c6918e4d0130930b49ded08eb3d1db9de8f5a"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.1.3",
+          "publishedAt": "2026-10-09T15:22:35Z",
+          "url": "https://github.com/NVIDIA/OpenShell/releases/tag/v0.1.3"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "NVIDIA/skills",
+      "metadata": {
+        "nameWithOwner": "NVIDIA/skills",
+        "url": "https://github.com/NVIDIA/skills",
+        "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 3585,
+        "pushedAt": "2026-10-09T15:27:20Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "14a98ae278cec7e867695189d0f4003c08e4f765"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "obra/superpowers",
+      "metadata": {
+        "nameWithOwner": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 298608,
+        "pushedAt": "2026-10-10T03:03:30Z",
+        "primaryLanguage": {
+          "name": "Shell"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "bb92a77741419a4ab5f06e711a283343f1ada0c3"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v7.0.0",
+          "publishedAt": "2026-10-10T00:28:58Z",
+          "url": "https://github.com/obra/superpowers/releases/tag/v7.0.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "ollama/ollama",
+      "metadata": {
+        "nameWithOwner": "ollama/ollama",
+        "url": "https://github.com/ollama/ollama",
+        "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 183042,
+        "pushedAt": "2026-10-13T19:53:09Z",
+        "primaryLanguage": {
+          "name": "Go"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "c185cf5dc53753b7e3e2119eb8ab0a8caade21c7"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.40.3",
+          "publishedAt": "2026-10-11T01:39:04Z",
+          "url": "https://github.com/ollama/ollama/releases/tag/v0.40.3"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "omnigent-ai/omnigent",
+      "metadata": {
+        "nameWithOwner": "omnigent-ai/omnigent",
+        "url": "https://github.com/omnigent-ai/omnigent",
+        "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 10785,
+        "pushedAt": "2026-10-13T20:16:30Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "4e933c0b6c13946dd594bf8412fb11ec37f310bd"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.18.0",
+          "publishedAt": "2026-10-13T08:34:10Z",
+          "url": "https://github.com/omnigent-ai/omnigent/releases/tag/v0.18.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "open-multi-agent/open-multi-agent",
+      "metadata": {
+        "nameWithOwner": "open-multi-agent/open-multi-agent",
+        "url": "https://github.com/open-multi-agent/open-multi-agent",
+        "description": "Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 6997,
+        "pushedAt": "2026-10-11T02:07:16Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "6ec5498643c7e431aa66751f17f47a529e7f927c"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.21.2",
+          "publishedAt": "2026-10-09T19:28:41Z",
+          "url": "https://github.com/open-multi-agent/open-multi-agent/releases/tag/v1.21.2"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "openai/codex",
+      "metadata": {
+        "nameWithOwner": "openai/codex",
+        "url": "https://github.com/openai/codex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 129040,
+        "pushedAt": "2026-10-13T19:55:41Z",
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "21c16161191ff965031d1ac41fe9046011610743"
+          }
+        },
+        "latestRelease": {
+          "tagName": "rust-v0.162.1",
+          "publishedAt": "2026-10-09T19:44:51Z",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.1"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "openai/openai-agents-python",
+      "metadata": {
+        "nameWithOwner": "openai/openai-agents-python",
+        "url": "https://github.com/openai/openai-agents-python",
+        "description": "A lightweight, powerful framework for multi-agent workflows",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 30012,
+        "pushedAt": "2026-10-13T20:13:35Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "67d4f8ab893ec41e1fac2393c610a1f6e1f4e0b7"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.23.1",
+          "publishedAt": "2026-10-02T15:19:29Z",
+          "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.23.1"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "openai/skills",
+      "metadata": {
+        "nameWithOwner": "openai/skills",
+        "url": "https://github.com/openai/skills",
+        "description": "Skills Catalog for Codex",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 28052,
+        "pushedAt": "2026-09-08T20:35:26Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": null,
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "49f948faa9258a0c61caceaf225e179651397431"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "openclaw/openclaw",
+      "metadata": {
+        "nameWithOwner": "openclaw/openclaw",
+        "url": "https://github.com/openclaw/openclaw",
+        "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 391889,
+        "pushedAt": "2026-10-13T20:19:01Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "197c7646c81f0fedfbddd5a00d4e95e7788492a2"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v2026.10.3",
+          "publishedAt": "2026-10-13T13:49:25Z",
+          "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.3"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "OpenHands/OpenHands",
+      "metadata": {
+        "nameWithOwner": "OpenHands/OpenHands",
+        "url": "https://github.com/OpenHands/OpenHands",
+        "description": "🙌 OpenHands: AI-Driven Development",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 90816,
+        "pushedAt": "2026-10-13T17:31:15Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "da4c7564dcf460f80d1889fee1c951802c448c56"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.27.1",
+          "publishedAt": "2026-10-12T19:33:56Z",
+          "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.27.1"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "openinterpreter/openinterpreter",
+      "metadata": {
+        "nameWithOwner": "openinterpreter/openinterpreter",
+        "url": "https://github.com/openinterpreter/openinterpreter",
+        "description": "A coding agent for open models like Kimi K3 and GLM 5.3",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 68570,
+        "pushedAt": "2026-10-11T00:56:06Z",
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "ac1fcc8fe57aba51fcc3c79afd57a0883237fe87"
+          }
+        },
+        "latestRelease": {
+          "tagName": "rust-v0.0.56",
+          "publishedAt": "2026-10-07T03:42:13Z",
+          "url": "https://github.com/openinterpreter/openinterpreter/releases/tag/rust-v0.0.56"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "opensandbox-group/OpenSandbox",
+      "metadata": {
+        "nameWithOwner": "opensandbox-group/OpenSandbox",
+        "url": "https://github.com/opensandbox-group/OpenSandbox",
+        "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 15825,
+        "pushedAt": "2026-10-13T14:26:49Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "f2c60a048dadbbc08ec0af3a3c55b69af8f50d55"
+          }
+        },
+        "latestRelease": {
+          "tagName": "release-1.1.1",
+          "publishedAt": "2026-10-09T15:09:23Z",
+          "url": "https://github.com/opensandbox-group/OpenSandbox/releases/tag/release-1.1.1"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "pedronauck/skills",
+      "metadata": {
+        "nameWithOwner": "pedronauck/skills",
+        "url": "https://github.com/pedronauck/skills",
+        "description": "My personal favorite skills",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 637,
+        "pushedAt": "2026-09-14T19:12:29Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": null,
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "0422940cea5d9960b3697016d1cb28c8ed02b030"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "pgvector/pgvector",
+      "metadata": {
+        "nameWithOwner": "pgvector/pgvector",
+        "url": "https://github.com/pgvector/pgvector",
+        "description": "Open-source vector similarity search for Postgres",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 23345,
+        "pushedAt": "2026-10-08T04:39:04Z",
+        "primaryLanguage": {
+          "name": "C"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "master",
+          "target": {
+            "oid": "f37c13f68b57d2c3472b2214fbcff699d6d34876"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "punkpeye/awesome-mcp-servers",
+      "metadata": {
+        "nameWithOwner": "punkpeye/awesome-mcp-servers",
+        "url": "https://github.com/punkpeye/awesome-mcp-servers",
+        "description": "A collection of MCP servers.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 96287,
+        "pushedAt": "2026-10-09T19:23:13Z",
+        "primaryLanguage": null,
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "cc7f1f42c3fa8ced6fd5c0e02ea366ef7ed8cf1b"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "pydantic/pydantic-ai",
+      "metadata": {
+        "nameWithOwner": "pydantic/pydantic-ai",
+        "url": "https://github.com/pydantic/pydantic-ai",
+        "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 20594,
+        "pushedAt": "2026-10-13T20:13:24Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "b8c1850638ec12f6e23990bda8cc8e2e7c854e2a"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v2.55.0",
+          "publishedAt": "2026-10-09T19:20:25Z",
+          "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.55.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "qdrant/qdrant",
+      "metadata": {
+        "nameWithOwner": "qdrant/qdrant",
+        "url": "https://github.com/qdrant/qdrant",
+        "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 35064,
+        "pushedAt": "2026-10-13T20:19:12Z",
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "master",
+          "target": {
+            "oid": "016542aa5deb6c66380bb137badf73d54f742bde"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.19.2",
+          "publishedAt": "2026-10-05T14:16:50Z",
+          "url": "https://github.com/qdrant/qdrant/releases/tag/v1.19.2"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "QwenLM/qwen-code",
+      "metadata": {
+        "nameWithOwner": "QwenLM/qwen-code",
+        "url": "https://github.com/QwenLM/qwen-code",
+        "description": "An open-source AI coding agent that lives in your terminal.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 28463,
+        "pushedAt": "2026-10-13T20:15:58Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "6212189f1f8334da78a69e3fb6b63ff6ca88251e"
+          }
+        },
+        "latestRelease": {
+          "tagName": "sdk-typescript-v0.1.19",
+          "publishedAt": "2026-10-11T11:42:33Z",
+          "url": "https://github.com/QwenLM/qwen-code/releases/tag/sdk-typescript-v0.1.19"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "rajshah4/harness-benchmark",
+      "metadata": {
+        "nameWithOwner": "rajshah4/harness-benchmark",
+        "url": "https://github.com/rajshah4/harness-benchmark",
+        "description": "Reproducible same-model comparison of OpenHands, Pi, OpenCode, and a separate Codex control, with prompts, verifiers, provider token ledgers, and full results.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 0,
+        "pushedAt": "2026-08-28T23:34:47Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": null,
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "bb237ca33bdab2903d3d4dcdb83820db16974169"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "run-llama/llama_index",
+      "metadata": {
+        "nameWithOwner": "run-llama/llama_index",
+        "url": "https://github.com/run-llama/llama_index",
+        "description": "LlamaIndex is the document processing platform for AI",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 52481,
+        "pushedAt": "2026-10-12T19:28:17Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "5b7b6e323e1da3edd787a2104a89257c14f026d0"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.14.25",
+          "publishedAt": "2026-09-21T16:22:27Z",
+          "url": "https://github.com/run-llama/llama_index/releases/tag/v0.14.25"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "sammcj/agentic-coding",
+      "metadata": {
+        "nameWithOwner": "sammcj/agentic-coding",
+        "url": "https://github.com/sammcj/agentic-coding",
+        "description": "Agentic Coding Rules, Templates etc...",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 163,
+        "pushedAt": "2026-10-13T06:09:26Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "9b99821a32d14a359529df3c720917b8503f2b57"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "ServiceNow/BrowserGym",
+      "metadata": {
+        "nameWithOwner": "ServiceNow/BrowserGym",
+        "url": "https://github.com/ServiceNow/BrowserGym",
+        "description": "🌎💪 BrowserGym, a Gym environment for web task automation",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 1399,
+        "pushedAt": "2026-10-05T23:54:35Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "e71419aef5759a11cb7896a26c36e5f7e92d82b2"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.14.3",
+          "publishedAt": "2026-01-20T20:23:26Z",
+          "url": "https://github.com/ServiceNow/BrowserGym/releases/tag/v0.14.3"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "sipeed/picoclaw",
+      "metadata": {
+        "nameWithOwner": "sipeed/picoclaw",
+        "url": "https://github.com/sipeed/picoclaw",
+        "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 30020,
+        "pushedAt": "2026-10-09T18:14:36Z",
+        "primaryLanguage": {
+          "name": "Go"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "bbf6893ca7afad27f1d00a0f5a45982a549c6ed6"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.3.1",
+          "publishedAt": "2026-07-03T07:37:06Z",
+          "url": "https://github.com/sipeed/picoclaw/releases/tag/v0.3.1"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "snyk/agent-scan",
+      "metadata": {
+        "nameWithOwner": "snyk/agent-scan",
+        "url": "https://github.com/snyk/agent-scan",
+        "description": "Security scanner for AI agents, MCP servers and agent skills.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 3136,
+        "pushedAt": "2026-10-13T18:16:30Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "2d3ca361e33452dcfb8e74f7b7db6db0ee08d59e"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.6.8",
+          "publishedAt": "2026-09-29T06:44:00Z",
+          "url": "https://github.com/snyk/agent-scan/releases/tag/v0.6.8"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "social-media-skills/skills",
+      "metadata": {
+        "nameWithOwner": "social-media-skills/skills",
+        "url": "https://github.com/social-media-skills/skills",
+        "description": "106 social media skills for AI agents - strategy, writing, video, design, platform growth, publishing, and analytics. Works with Claude, Cursor, OpenClaw, Hermes & 40+ agents.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 147,
+        "pushedAt": "2026-10-01T19:58:54Z",
+        "primaryLanguage": {
+          "name": "Shell"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "6e30eeb2f6736bda8683b6bbaa674af3641d7945"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.0.1",
+          "publishedAt": "2026-07-18T10:38:44Z",
+          "url": "https://github.com/social-media-skills/skills/releases/tag/v1.0.1"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "stablyai/orca",
+      "metadata": {
+        "nameWithOwner": "stablyai/orca",
+        "url": "https://github.com/stablyai/orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 91508,
+        "pushedAt": "2026-10-13T20:19:44Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "c745051d7d6885b86f27120b616f15396404ba3d"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.4.224",
+          "publishedAt": "2026-10-10T04:30:28Z",
+          "url": "https://github.com/stablyai/orca/releases/tag/v1.4.224"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "stanfordnlp/dspy",
+      "metadata": {
+        "nameWithOwner": "stanfordnlp/dspy",
+        "url": "https://github.com/stanfordnlp/dspy",
+        "description": "DSPy: The framework for programming—not prompting—language models",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 38614,
+        "pushedAt": "2026-10-13T14:44:05Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "9e9416aaeac3ccb15a7110fd229fc9bf54319555"
+          }
+        },
+        "latestRelease": {
+          "tagName": "3.4.1",
+          "publishedAt": "2026-10-12T23:12:32Z",
+          "url": "https://github.com/stanfordnlp/dspy/releases/tag/3.4.1"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "statelyai/agent",
+      "metadata": {
+        "nameWithOwner": "statelyai/agent",
+        "url": "https://github.com/statelyai/agent",
+        "description": "Create state-machine-powered LLM agents using XState",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 479,
+        "pushedAt": "2026-10-13T08:11:39Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "next",
+          "target": {
+            "oid": "b884c736300ccb82b8cf98b9a6e1726267f6cafc"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.1.6",
+          "publishedAt": "2024-09-28T17:19:08Z",
+          "url": "https://github.com/statelyai/agent/releases/tag/v1.1.6"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "Supersynergy/synapse-memory",
+      "metadata": {
+        "nameWithOwner": "Supersynergy/synapse-memory",
+        "url": "https://github.com/Supersynergy/synapse-memory",
+        "description": "A memory your coding assistant can search, kept in one file on your disk. It knows when a fact was true and where it came from. No server, nothing uploaded.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 2,
+        "pushedAt": "2026-10-01T21:44:01Z",
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "2b2610b0474ee2f8bac09c9e43a5861510a10a3f"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "SWE-agent/SWE-agent",
+      "metadata": {
+        "nameWithOwner": "SWE-agent/SWE-agent",
+        "url": "https://github.com/SWE-agent/SWE-agent",
+        "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] ",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 20544,
+        "pushedAt": "2026-10-12T23:00:33Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "3ea751c087f32b16e039a2233dd6eefecef325d5"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.1.0",
+          "publishedAt": "2025-05-22T16:11:39Z",
+          "url": "https://github.com/SWE-agent/SWE-agent/releases/tag/v1.1.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "SWE-bench/SWE-bench",
+      "metadata": {
+        "nameWithOwner": "SWE-bench/SWE-bench",
+        "url": "https://github.com/SWE-bench/SWE-bench",
+        "description": "SWE-bench: Can Language Models Resolve Real-world Github Issues?",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 6021,
+        "pushedAt": "2026-09-18T05:08:56Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "02e7a74ffd0b707aab73d203fe87bdc7c76afc8e"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "TencentCloud/TencentDB-Agent-Memory",
+      "metadata": {
+        "nameWithOwner": "TencentCloud/TencentDB-Agent-Memory",
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 28808,
+        "pushedAt": "2026-10-13T10:43:52Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "feat/server_team",
+          "target": {
+            "oid": "badbd2179d06f4e0e1f2133bd3482880beab8a02"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v2.0.3-beta.1",
+          "publishedAt": "2026-10-13T10:43:52Z",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory/releases/tag/v2.0.3-beta.1"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "topoteretes/cognee",
+      "metadata": {
+        "nameWithOwner": "topoteretes/cognee",
+        "url": "https://github.com/topoteretes/cognee",
+        "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 32190,
+        "pushedAt": "2026-10-13T19:34:34Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "f154b32a9e544dac73e7ddf2010327cf9988edcd"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v1.6.4",
+          "publishedAt": "2026-10-13T15:23:18Z",
+          "url": "https://github.com/topoteretes/cognee/releases/tag/v1.6.4"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "trailofbits/skills",
+      "metadata": {
+        "nameWithOwner": "trailofbits/skills",
+        "url": "https://github.com/trailofbits/skills",
+        "description": "Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 7511,
+        "pushedAt": "2026-10-13T17:33:22Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "CC-BY-SA-4.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "8e54050ae63c2f62224c35b1616efe71865b4777"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "vercel/ai",
+      "metadata": {
+        "nameWithOwner": "vercel/ai",
+        "url": "https://github.com/vercel/ai",
+        "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 27301,
+        "pushedAt": "2026-10-13T19:58:24Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "NOASSERTION"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "02915508cf2618baa54136fac78ad2fdca86a1f9"
+          }
+        },
+        "latestRelease": {
+          "tagName": "@ai-sdk/workflow-harness@1.0.150",
+          "publishedAt": "2026-10-13T16:12:16Z",
+          "url": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/workflow-harness%401.0.150"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "vercel/eve",
+      "metadata": {
+        "nameWithOwner": "vercel/eve",
+        "url": "https://github.com/vercel/eve",
+        "description": "The Open Framework for Building Agents",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 5550,
+        "pushedAt": "2026-10-13T20:19:37Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "4bf1efaf35eb5408b87a3eaed603a4fb853b8d0b"
+          }
+        },
+        "latestRelease": {
+          "tagName": "eve@0.79.0",
+          "publishedAt": "2026-10-13T18:41:08Z",
+          "url": "https://github.com/vercel/eve/releases/tag/eve%400.79.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "vercel/workflow",
+      "metadata": {
+        "nameWithOwner": "vercel/workflow",
+        "url": "https://github.com/vercel/workflow",
+        "description": "Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 2455,
+        "pushedAt": "2026-10-13T20:19:00Z",
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "0948b0a4853716c4b8653e78d166af781f49e1dd"
+          }
+        },
+        "latestRelease": {
+          "tagName": "workflow@5.2.1",
+          "publishedAt": "2026-10-12T20:55:49Z",
+          "url": "https://github.com/vercel/workflow/releases/tag/workflow%405.2.1"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "vllm-project/vllm",
+      "metadata": {
+        "nameWithOwner": "vllm-project/vllm",
+        "url": "https://github.com/vllm-project/vllm",
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 93729,
+        "pushedAt": "2026-10-13T20:06:45Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "c19c263ac8ea3fd6e1d2d689f0e4e725855d89cf"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.31.0",
+          "publishedAt": "2026-10-05T06:44:55Z",
+          "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "volcengine/OpenViking",
+      "metadata": {
+        "nameWithOwner": "volcengine/OpenViking",
+        "url": "https://github.com/volcengine/OpenViking",
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 39828,
+        "pushedAt": "2026-10-13T14:03:24Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "AGPL-3.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "bd78cbe57acd721df08e12052fff794813263f76"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.5.0",
+          "publishedAt": "2026-10-09T15:46:55Z",
+          "url": "https://github.com/volcengine/OpenViking/releases/tag/v0.5.0"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "wippyai/runtime",
+      "metadata": {
+        "nameWithOwner": "wippyai/runtime",
+        "url": "https://github.com/wippyai/runtime",
+        "description": "Lua/WASM Actor platform",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 16,
+        "pushedAt": "2026-10-13T16:53:30Z",
+        "primaryLanguage": {
+          "name": "Go"
+        },
+        "licenseInfo": {
+          "spdxId": "MPL-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "7495f1ce79bb64ad79df8374e02616f085ee3938"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.3.48a",
+          "publishedAt": "2026-10-13T15:05:08Z",
+          "url": "https://github.com/wippyai/runtime/releases/tag/v0.3.48a"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "zeroclaw-labs/zeroclaw",
+      "metadata": {
+        "nameWithOwner": "zeroclaw-labs/zeroclaw",
+        "url": "https://github.com/zeroclaw-labs/zeroclaw",
+        "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 32973,
+        "pushedAt": "2026-10-13T19:59:48Z",
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "licenseInfo": {
+          "spdxId": "Apache-2.0"
+        },
+        "defaultBranchRef": {
+          "name": "master",
+          "target": {
+            "oid": "30fabebc7056dd38a946aaa7c47696d10253416d"
+          }
+        },
+        "latestRelease": {
+          "tagName": "v0.8.5",
+          "publishedAt": "2026-09-05T07:31:19Z",
+          "url": "https://github.com/zeroclaw-labs/zeroclaw/releases/tag/v0.8.5"
+        }
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    },
+    {
+      "requestedRepository": "Zijian-Ni/awesome-ai-agents-2026",
+      "metadata": {
+        "nameWithOwner": "Zijian-Ni/awesome-ai-agents-2026",
+        "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026",
+        "description": "🤖 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 — the year agents went mainstream",
+        "isArchived": false,
+        "isFork": false,
+        "stargazerCount": 246,
+        "pushedAt": "2026-10-08T07:34:17Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "licenseInfo": {
+          "spdxId": "MIT"
+        },
+        "defaultBranchRef": {
+          "name": "main",
+          "target": {
+            "oid": "c63beecce748e345bbfdb35135113563aceedae1"
+          }
+        },
+        "latestRelease": null
+      },
+      "status": "verified",
+      "source": "https://api.github.com/graphql"
+    }
+  ]
+}
