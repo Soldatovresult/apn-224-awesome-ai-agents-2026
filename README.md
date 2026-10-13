@@ -1,112 +1,94 @@
 <div align="center">
 
-<img src="docs/assets/friendly-agent-centered.png" alt="A friendly porcelain AI companion, centered beside glass symbols for tools, memory and verified work." width="850">
-
 # Awesome AI Agents · 2026
 
-### Find an agent for the work you need done.
+### Find an AI agent for the work you want done.
 
-A source-linked guide to coding agents, harnesses, frameworks and the systems that let them work reliably.
+Get help with code, research or everyday tasks. Choose an agent by what it can do and how you want to use it.
+
+**[Find your agent →](#find-your-agent)**
+
+<img src="docs/assets/friendly-agent-centered.png" alt="A friendly porcelain AI companion, centered beside glass symbols for tools, memory and verified work." width="850">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/license-MIT-ECD7A7?style=flat-square)](LICENSE)
 [![Checked 13 October 2026](https://img.shields.io/badge/checked-13%20Oct%202026-0E5960?style=flat-square)](docs/UPDATE-2026-10-13.md)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-68D9C6?style=flat-square)](CONTRIBUTING.md)
 
-**[Harness research](docs/HARNESS-RESEARCH.md) · [Browse the directory](#contents) · [October update](docs/UPDATE-2026-10-13.md) · [Artwork prompt](docs/assets/PREMIUM-PROMPT.md)**
-
 </div>
 
-> Start with the job, then choose the agent and execution environment. Every current entry links upstream; the [dated metadata snapshot](docs/data/catalog-2026-10-13.json) records repository status separately from capability and benchmark evidence.
+## Find your agent
 
-## 60-second map
+Choose a task below. Each link leads to the official project or product, where you can check availability and setup.
 
-| If you want to… | Start here | Then add |
+| What you want to do | Agents to explore | A useful first task |
 |---|---|---|
-| Build an agent | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python), [Google ADK](https://github.com/google/adk-python), [Pydantic AI](https://github.com/pydantic/pydantic-ai) | [MCP](https://modelcontextprotocol.io/specification/latest), tracing, evals |
-| Ship code with an agent | [Codex](https://github.com/openai/codex), [Claude Code](https://github.com/anthropics/claude-code), [OpenCode](https://github.com/anomalyco/opencode), [Gemini CLI](https://github.com/google-gemini/gemini-cli) | sandbox, tests, review gate |
-| Connect tools and data | [MCP](https://modelcontextprotocol.io/specification/latest) | allowlists, auth, audit logs |
-| Delegate between agents | [A2A](https://a2a-protocol.org/latest/) | capability cards, typed artifacts, timeouts |
-| Give agents durable context | [Synapse](https://github.com/Supersynergy/synapse-memory), [Mem0](https://github.com/mem0ai/mem0), [Letta](https://github.com/letta-ai/letta) | retention, deletion, provenance |
-| Compare harnesses | [OpenBench](https://github.com/minghinmatthewlam/openbench), [Harbor](https://github.com/harbor-framework/harbor), [the research guide](docs/HARNESS-RESEARCH.md) | fixed models, isolated configuration, external checkers |
-| Prove that it works | [Terminal-Bench](https://github.com/harbor-framework/terminal-bench), [BrowserGym](https://github.com/ServiceNow/BrowserGym), [SWE-bench](https://github.com/SWE-bench/SWE-bench) | traces, cost, human intervention |
+| Write, fix or review code | [Codex](https://github.com/openai/codex), [Claude Code](https://github.com/anthropics/claude-code), [OpenCode](https://github.com/anomalyco/opencode) | Ask for one repository change, then review the diff and run the tests |
+| Research a question | [OpenAI Deep Research](https://openai.com/index/introducing-deep-research/), [Gemini Deep Research](https://gemini.google.com/) | Ask a specific question and check the cited sources |
+| Handle a repeat workflow | [Goose](https://github.com/aaif-goose/goose), [Hermes Agent](https://github.com/NousResearch/hermes-agent), [OpenClaw](https://github.com/openclaw/openclaw) | Try one routine task with only the tools it needs |
+| Turn an idea into an app | [Replit Agent](https://replit.com/ai), [Lovable](https://lovable.dev/), [v0](https://v0.dev/) | Describe one screen or feature and inspect the result before publishing |
 
-## The harness matters
+Start with one small task whose result you can check. Hosted agents may require an account or plan; local agents need installation and a model connection. Review tool access before connecting private files or services.
 
-The harness controls tools, context, permissions, recovery and verification around a model. Choose and evaluate that combination on your own workload.
-
-```mermaid
-flowchart LR
-    G[Goal and acceptance] --> H[Agent harness]
-    M[Model] <--> H
-    H <--> T[Tools and environment]
-    H <--> C[Context and memory]
-    T --> V[Independent verification]
-    V --> R[Review and permitted delivery]
-    V -->|Failure within retry budget| H
-```
-
-The October research adds [OpenBench](https://github.com/minghinmatthewlam/openbench), [Harbor](https://github.com/harbor-framework/harbor) and [Finding the Right Fit](https://arxiv.org/abs/2610.00917). These sources examine different configurations and task sets. They support controlled comparisons, with results kept attached to their tested settings.
-
-**[Read the harness comparison →](docs/HARNESS-RESEARCH.md)** It covers Codex, Claude Code, OpenCode, pi, Gemini CLI, OpenHands, Hermes and Deep Agents, plus an evaluation checklist and the limits of published pilots.
-
-## October highlights
-
-| Addition or correction | Why it belongs here |
-|---|---|
-| [LangGraph](https://github.com/langchain-ai/langgraph) and [Deep Agents](https://github.com/langchain-ai/deepagents) | Distinguish durable stateful orchestration from a higher-level agent harness |
-| [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | Current Python/.NET agent and workflow framework; upstream provides AutoGen and Semantic Kernel migration guides |
-| [Harness research](docs/HARNESS-RESEARCH.md) | Compare actual model routes, tools, configuration and accepted outcomes |
-| Repository status cleanup | Canonical links updated; archived Kimi CLI moved out of the current coding shortlist |
-| [Friendly agent artwork](docs/assets/PREMIUM-PROMPT.md) | Original hero artwork with a reusable prompt and accessible alt text |
-
-The [October audit](docs/UPDATE-2026-10-13.md) explains what was checked. July and August research remains in the audit trail.
+**[Browse coding agents](#coding-agents) · [Research and everyday agents](#research-and-everyday-agents) · [Compare harnesses](docs/HARNESS-RESEARCH.md)**
 
 ## Contents
 
-- [Harness research and comparisons](docs/HARNESS-RESEARCH.md)
-- [Framework decision guide](FRAMEWORKS.md) · [Local model tools](LOCAL-LLM-TOOLS.md) · [Model setup](MODEL-RUNNING-GUIDE.md)
+1. [Coding agents](#coding-agents)
+2. [Research and everyday agents](#research-and-everyday-agents)
+3. [Agent runtimes and platforms](#agent-runtimes-and-platforms)
+4. [How agents run: the harness](#the-harness-matters)
+5. [Agent frameworks](#agent-frameworks)
+6. [Protocols and standards](#protocols-and-standards)
+7. [Agent skills and repo context](#agent-skills-and-repo-context)
+8. [Multi-agent patterns](#multi-agent-patterns)
+9. [Agent memory](#agent-memory)
+10. [Observability and evaluation](#observability-and-evaluation)
+11. [Security and guardrails](#security-and-guardrails)
+12. [Voice agents](#voice-agents)
+13. [Deployment and sandboxing](#deployment-and-sandboxing)
+14. [Knowledge and retrieval](#knowledge-and-retrieval)
+15. [October highlights](#october-highlights)
+16. [Freshness and evidence](#freshness-and-evidence)
+17. [Related awesome lists](#related-awesome-lists)
+18. [Contributing](#contributing)
 
-1. [Agent frameworks](#agent-frameworks)
-2. [Agent runtimes and platforms](#agent-runtimes-and-platforms)
-3. [Coding agents](#coding-agents)
-4. [Protocols and standards](#protocols-and-standards)
-5. [Agent skills and repo context](#agent-skills-and-repo-context)
-6. [Multi-agent patterns](#multi-agent-patterns)
-7. [Agent memory](#agent-memory)
-8. [Observability and evaluation](#observability-and-evaluation)
-9. [Security and guardrails](#security-and-guardrails)
-10. [Voice agents](#voice-agents)
-11. [Deployment and sandboxing](#deployment-and-sandboxing)
-12. [Knowledge and retrieval](#knowledge-and-retrieval)
-13. [Freshness and evidence](#freshness-and-evidence)
-14. [Related awesome lists](#related-awesome-lists)
-15. [Contributing](#contributing)
+For builders: [Framework guide](FRAMEWORKS.md) · [Local model tools](LOCAL-LLM-TOOLS.md) · [Model setup](MODEL-RUNNING-GUIDE.md). For the visual direction: [Artwork prompt](docs/assets/PREMIUM-PROMPT.md).
 
-## Agent frameworks
+## Coding agents
 
-| Framework | Best fit |
-|---|---|
-| [LangGraph](https://github.com/langchain-ai/langgraph) | Stateful execution with recovery and human intervention |
-| [Deep Agents](https://github.com/langchain-ai/deepagents) | Planning harness with files and subagents |
-| [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | Python/.NET agents and multi-agent workflows |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | Role-based agents and coordinated workflows |
-| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Tool-using agents with handoffs and tracing |
-| [Claude Agent SDK for Python](https://github.com/anthropics/claude-agent-sdk-python) | Building around Claude Code primitives and tool use |
-| [Google ADK](https://github.com/google/adk-python) | Code-first agents in the Google ecosystem |
-| [Pydantic AI](https://github.com/pydantic/pydantic-ai) | Type-safe agents and validated structured output |
-| [Mastra](https://github.com/mastra-ai/mastra) | TypeScript agents and workflows |
-| [Vercel AI SDK](https://github.com/vercel/ai) | Provider-agnostic TypeScript toolkit for applications and tool-loop agents |
-| [CopilotKit](https://github.com/CopilotKit/CopilotKit) | Agent interfaces with shared state and approval flows |
-| [Stately Agent](https://github.com/statelyai/agent) | State-machine-controlled LLM agents |
-| [Workflow SDK](https://github.com/vercel/workflow) | Durable TypeScript workflows |
-| [smolagents](https://github.com/huggingface/smolagents) | Small code-first agents and `CodeAgent` workflows |
-| [Agno](https://github.com/agno-agi/agno) | Model-agnostic agents with tool access |
-| [mcp-agent](https://github.com/lastmile-ai/mcp-agent) | MCP-native agents and compact workflow patterns |
-| [Vercel Eve](https://github.com/vercel/eve) | Filesystem-oriented agent framework |
-| [Omnigent](https://github.com/omnigent-ai/omnigent) | Meta-harness for interoperable coding agents and policy controls |
-| [Open Multi-Agent](https://github.com/open-multi-agent/open-multi-agent) | TypeScript orchestration with runtime-planned task DAGs |
-| [Archestra](https://github.com/archestra-ai/archestra) | MCP/A2A access gateway and orchestration |
+Give a coding agent a concrete change to make. Compare the interface and model setup you prefer, then verify its changes in your repository.
+
+| Agent | Interface | What it helps you do |
+|---|---|---|
+| [OpenCode](https://github.com/anomalyco/opencode) | Terminal | Work on a repository with your chosen model provider |
+| [Claude Code](https://github.com/anthropics/claude-code) | Terminal | Implement changes and use repository-specific workflows |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Terminal | Work on code through a Gemini terminal workflow |
+| [Codex](https://github.com/openai/codex) | Terminal | Make and verify code changes through a terminal agent |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | Web / CLI | Delegate development work in an execution environment |
+| [Cline](https://github.com/cline/cline) | VS Code / CLI / SDK | Edit and test code through an editor or CLI |
+| [Open Interpreter](https://github.com/openinterpreter/openinterpreter) | Terminal / CLI | Use code execution to work on files and tasks |
+| [Aider](https://github.com/Aider-AI/aider) | Terminal | Pair on code changes tracked in Git |
+| [Orca](https://github.com/stablyai/orca) | Desktop / mobile / VPS | Coordinate several coding-agent workspaces |
+| [Qwen Code](https://github.com/QwenLM/qwen-code) | Terminal | Work on repository tasks from the terminal |
+| [pi](https://github.com/earendil-works/pi) | TUI / CLI toolkit | Code with a small, extensible terminal agent |
+| [Chorus](https://github.com/chorus-codes/chorus) | CLI harness | Review proposed changes through multiple models |
+
+### Coding-agent ecosystem
+
+[Claude Code Router](https://github.com/musistudio/claude-code-router) · [Claude Code Templates](https://github.com/davila7/claude-code-templates) · [AgenticFlowX](https://github.com/AgenticFlowX/agenticflowx) · [SWE-agent](https://github.com/SWE-agent/SWE-agent) · [GitHub Copilot](https://github.com/features/copilot) · [Cursor](https://cursor.com/) · [Windsurf](https://windsurf.com/)
+
+## Research and everyday agents
+
+| Agent | What it helps you do | How you use it |
+|---|---|---|
+| [OpenAI Deep Research](https://openai.com/index/introducing-deep-research/) | Investigate a question and produce a report with sources | Hosted research workflow |
+| [Gemini Deep Research](https://gemini.google.com/) | Research a topic in the Gemini ecosystem | Hosted research workflow |
+| [Goose](https://github.com/aaif-goose/goose) | Work on code or repeat tasks with connected tools | Desktop app or CLI on your machine |
+| [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Keep context across personal workflows and reusable skills | Local agent with tool and channel connections |
+| [OpenClaw](https://github.com/openclaw/openclaw) | Run a personal assistant across connected channels and tools | Self-hosted assistant |
+
+Choose the tool access your task needs. Check the actual result before relying on it or letting a workflow continue unattended.
 
 ## Agent runtimes and platforms
 
@@ -155,26 +137,49 @@ Additional execution surfaces for fleet operations, shared workspaces and physic
 | [Wippy](https://github.com/wippyai/runtime) | Go / Lua-WASM runtime | Durable actor runtime with policy controls |
 | [AgenticFlowX](https://github.com/AgenticFlowX/agenticflowx) | VS Code / workflow layer | VS Code agent workflows with repository traceability |
 
-## Coding agents
+## The harness matters
 
-| Agent | Interface | Strength |
-|---|---|---|
-| [OpenCode](https://github.com/anomalyco/opencode) | Terminal | Open-source, model-agnostic coding agent |
-| [Claude Code](https://github.com/anthropics/claude-code) | Terminal | Repository-aware coding, hooks, and agent workflows |
-| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Terminal | Open-source Gemini agent with terminal and MCP workflows |
-| [Codex](https://github.com/openai/codex) | Terminal | Open-source terminal agent with sandboxed execution |
-| [OpenHands](https://github.com/OpenHands/OpenHands) | Web / CLI | Autonomous software-development workflows |
-| [Cline](https://github.com/cline/cline) | VS Code / CLI / SDK | Model-agnostic tool execution and coding |
-| [Open Interpreter](https://github.com/openinterpreter/openinterpreter) | Terminal / CLI | Code-capable agent for open models |
-| [Aider](https://github.com/Aider-AI/aider) | Terminal | Git-aware pair programming and repository edits |
-| [Orca](https://github.com/stablyai/orca) | Desktop / mobile / VPS | Parallel coding-agent fleet management |
-| [Qwen Code](https://github.com/QwenLM/qwen-code) | Terminal | Open-source terminal coding agent |
-| [pi](https://github.com/earendil-works/pi) | TUI / CLI toolkit | Unified LLM API, agent loop, and coding CLI |
-| [Chorus](https://github.com/chorus-codes/chorus) | CLI harness | Multi-LLM peer review before shipping code |
+The harness controls tools, context, permissions, recovery and verification around a model. Choose and evaluate that combination on your own workload.
 
-### Coding-agent ecosystem
+```mermaid
+flowchart LR
+    G[Goal and acceptance] --> H[Agent harness]
+    M[Model] <--> H
+    H <--> T[Tools and environment]
+    H <--> C[Context and memory]
+    T --> V[Independent verification]
+    V --> R[Review and permitted delivery]
+    V -->|Failure within retry budget| H
+```
 
-[Claude Code Router](https://github.com/musistudio/claude-code-router) · [Claude Code Templates](https://github.com/davila7/claude-code-templates) · [AgenticFlowX](https://github.com/AgenticFlowX/agenticflowx) · [SWE-agent](https://github.com/SWE-agent/SWE-agent) · [GitHub Copilot](https://github.com/features/copilot) · [Cursor](https://cursor.com/) · [Windsurf](https://windsurf.com/)
+The October research adds [OpenBench](https://github.com/minghinmatthewlam/openbench), [Harbor](https://github.com/harbor-framework/harbor) and [Finding the Right Fit](https://arxiv.org/abs/2610.00917). These sources examine different configurations and task sets. They support controlled comparisons, with results kept attached to their tested settings.
+
+**[Read the harness comparison →](docs/HARNESS-RESEARCH.md)** It covers Codex, Claude Code, OpenCode, pi, Gemini CLI, OpenHands, Hermes and Deep Agents, plus an evaluation checklist and the limits of published pilots.
+
+## Agent frameworks
+
+| Framework | Best fit |
+|---|---|
+| [LangGraph](https://github.com/langchain-ai/langgraph) | Stateful execution with recovery and human intervention |
+| [Deep Agents](https://github.com/langchain-ai/deepagents) | Planning harness with files and subagents |
+| [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | Python/.NET agents and multi-agent workflows |
+| [CrewAI](https://github.com/crewAIInc/crewAI) | Role-based agents and coordinated workflows |
+| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Tool-using agents with handoffs and tracing |
+| [Claude Agent SDK for Python](https://github.com/anthropics/claude-agent-sdk-python) | Building around Claude Code primitives and tool use |
+| [Google ADK](https://github.com/google/adk-python) | Code-first agents in the Google ecosystem |
+| [Pydantic AI](https://github.com/pydantic/pydantic-ai) | Type-safe agents and validated structured output |
+| [Mastra](https://github.com/mastra-ai/mastra) | TypeScript agents and workflows |
+| [Vercel AI SDK](https://github.com/vercel/ai) | Provider-agnostic TypeScript toolkit for applications and tool-loop agents |
+| [CopilotKit](https://github.com/CopilotKit/CopilotKit) | Agent interfaces with shared state and approval flows |
+| [Stately Agent](https://github.com/statelyai/agent) | State-machine-controlled LLM agents |
+| [Workflow SDK](https://github.com/vercel/workflow) | Durable TypeScript workflows |
+| [smolagents](https://github.com/huggingface/smolagents) | Small code-first agents and `CodeAgent` workflows |
+| [Agno](https://github.com/agno-agi/agno) | Model-agnostic agents with tool access |
+| [mcp-agent](https://github.com/lastmile-ai/mcp-agent) | MCP-native agents and compact workflow patterns |
+| [Vercel Eve](https://github.com/vercel/eve) | Filesystem-oriented agent framework |
+| [Omnigent](https://github.com/omnigent-ai/omnigent) | Meta-harness for interoperable coding agents and policy controls |
+| [Open Multi-Agent](https://github.com/open-multi-agent/open-multi-agent) | TypeScript orchestration with runtime-planned task DAGs |
+| [Archestra](https://github.com/archestra-ai/archestra) | MCP/A2A access gateway and orchestration |
 
 ## Protocols and standards
 
@@ -300,6 +305,18 @@ Sandbox untrusted code. Treat model output as data until a policy layer validate
 | [CodeGraph](https://github.com/colbymchenry/codegraph) | Local code knowledge graph for coding-agent retrieval and change context |
 
 Choose storage by deletion semantics, tenant isolation, filter support, provenance, and operational cost—not by embedding demos alone.
+
+## October highlights
+
+| Addition or correction | Why it belongs here |
+|---|---|
+| [LangGraph](https://github.com/langchain-ai/langgraph) and [Deep Agents](https://github.com/langchain-ai/deepagents) | Distinguish durable stateful orchestration from a higher-level agent harness |
+| [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | Current Python/.NET agent and workflow framework; upstream provides AutoGen and Semantic Kernel migration guides |
+| [Harness research](docs/HARNESS-RESEARCH.md) | Compare actual model routes, tools, configuration and accepted outcomes |
+| Repository status cleanup | Canonical links updated; archived Kimi CLI moved out of the current coding shortlist |
+| [Friendly agent artwork](docs/assets/PREMIUM-PROMPT.md) | Original hero artwork with a reusable prompt and accessible alt text |
+
+The [October audit](docs/UPDATE-2026-10-13.md) explains what was checked. July and August research remains in the audit trail.
 
 ## Freshness and evidence
 
