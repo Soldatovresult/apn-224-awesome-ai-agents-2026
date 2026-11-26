@@ -271,7 +271,7 @@ Track task success, tool success, latency, token cost, retries, human interventi
 
 Minimum controls: least-privilege tool scopes, server allowlists, validated tool output, sandboxing, egress limits, max steps, cost limits, audit logs, and human approval for irreversible actions.
 
-[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local CLI and stdio MCP payment tools for developers who need owner-set payment limits, foreground approval where required, and operation receipts on macOS Apple Silicon.
+[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local CLI and stdio MCP payment tools for developers who need owner-set payment limits, an owner-set x402 policy and terminal approval for direct transfers, and operation receipts on macOS Apple Silicon.
 
 ## Voice agents
 
